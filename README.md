@@ -17,5 +17,5 @@ This project performs sentiment analysis on movie reviews from the IMDB dataset 
 
 ## Results
 
-![Image1](Image1.jpeg)
+![image1](image1.jpeg)
 ![Image2](Image2.jpeg)
