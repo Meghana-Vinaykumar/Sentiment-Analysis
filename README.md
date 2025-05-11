@@ -1,4 +1,4 @@
-IMDB Sentiment Analysis with LSTM and Web App
+# IMDB Sentiment Analysis with LSTM and Web App
 
 This project performs sentiment analysis on movie reviews from the IMDB dataset using an LSTM-based deep learning model. It also includes a web interface where users can input text and receive real-time sentiment predictions.
 
@@ -16,3 +16,6 @@ This project performs sentiment analysis on movie reviews from the IMDB dataset 
 - **Streamlit** for web app
 
 ## Results
+
+![Image1](Image1.jpeg)
+![Image2](Image2.jpeg)
